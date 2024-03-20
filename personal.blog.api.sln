@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maaici.utils", "maaici.util
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog.dtos", "blog.dtos\blog.dtos.csproj", "{7DFAE257-81F1-42D4-BA05-BE70CB3E8702}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gemini.Redis", "Gemini.Redis\Gemini.Redis.csproj", "{2081C3CD-4757-4C0B-956C-6E490D43FDE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7DFAE257-81F1-42D4-BA05-BE70CB3E8702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DFAE257-81F1-42D4-BA05-BE70CB3E8702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DFAE257-81F1-42D4-BA05-BE70CB3E8702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2081C3CD-4757-4C0B-956C-6E490D43FDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2081C3CD-4757-4C0B-956C-6E490D43FDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2081C3CD-4757-4C0B-956C-6E490D43FDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2081C3CD-4757-4C0B-956C-6E490D43FDE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

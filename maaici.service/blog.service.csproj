@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\blog.dtos\blog.dtos.csproj" />
+    <ProjectReference Include="..\Gemini.Redis\Gemini.Redis.csproj" />
     <ProjectReference Include="..\maaici.Repository\maaici.Repository.csproj" />
     <ProjectReference Include="..\maaici.utils\maaici.utils.csproj" />
   </ItemGroup>
